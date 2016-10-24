@@ -1,0 +1,22 @@
+{
+  "name": "report-builder",
+  "version": "0.0.0",
+  "description": "",
+  "readme": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiligenceVault/report-builder"
+  },
+  "author": "mudassir0909 <mudassir.dev@gmail.com>",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-angular-templates": "^1.1.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-http-server": "^2.0.0"
+  }
+}
